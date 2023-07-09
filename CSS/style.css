@@ -71,6 +71,10 @@ body::before {
     text-align: center;
 }
 
+.list-character .mutante {
+    border-bottom: 4px  solid #47f4ff;
+}
+
 .list-character igm {
     width: 100%;
     height: 100%;
